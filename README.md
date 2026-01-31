@@ -8,7 +8,7 @@ this repo contains Mai's Engineering Projects
 
 ### 1. Autonomous Delivery System $ Self-Sufficient Garden
 - Microcontroller: Rasberry Pi Pico
-- Languages: C
+- Languages: Python
 - Description: Developed embedded firmware to integrate sensors and motors for the system's movement and control
 - Responsibilities:
 - Programmed and debegged code
